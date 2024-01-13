@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I like Creating Things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsri007&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsri007" /> </p>
 
